@@ -1,0 +1,10 @@
+pip install openai==0.28
+uvicorn server:app --reload
+flutter pub get
+
+
+C:\Users\Asus\AppData\Local\Android\Sdk\tools --install "cmdline-tools;latest"
+
+%USERPROFILE%\dev\flutter\bin
+
+<img src="https://ateists.lv/images/2ynrny.jpg" alt="">
